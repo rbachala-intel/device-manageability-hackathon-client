@@ -1,2 +1,1 @@
-# intel-microsoft-device-manageability-hackathon
-Hackathon code co-developed by Microsoft and Intel for showcasing vPro capabilities on Azure IoT
+Client code to connect to iot hub and receive device commands in-band and out-of-band
